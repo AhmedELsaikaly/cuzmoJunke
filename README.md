@@ -1,1 +1,2 @@
-# cuzmoJunke
+# cuzmoJunke 
+Responsive HTML CSS template
